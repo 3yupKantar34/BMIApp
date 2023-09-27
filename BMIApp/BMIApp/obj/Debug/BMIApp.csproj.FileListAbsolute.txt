@@ -1,0 +1,7 @@
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\BMIApp\BMIApp\bin\Debug\BMIApp.exe.config
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\BMIApp\BMIApp\bin\Debug\BMIApp.exe
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\BMIApp\BMIApp\bin\Debug\BMIApp.pdb
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\BMIApp\BMIApp\obj\Debug\BMIApp.csproj.AssemblyReference.cache
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\BMIApp\BMIApp\obj\Debug\BMIApp.csproj.CoreCompileInputs.cache
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\BMIApp\BMIApp\obj\Debug\BMIApp.exe
+C:\Users\ComputerProgrammer\Desktop\C#.net Projelerim\BMIApp\BMIApp\obj\Debug\BMIApp.pdb
